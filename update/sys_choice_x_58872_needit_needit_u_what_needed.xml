@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update>
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
     <sys_choice action="INSERT_OR_UPDATE" field="u_what_needed" table="x_58872_needit_needit" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -177,13 +178,11 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-01-26 19:39:58</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
-            <sys_id>69a5961adb0223006a326a49489619e7</sys_id>
+            <sys_id>0695cbfadb5323005624f36f299619ad</sys_id>
             <sys_mod_count>3</sys_mod_count>
             <sys_name>u_what_needed</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
             <sys_policy/>
-            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
             <sys_update_name>sys_choice_x_58872_needit_needit_u_what_needed</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
